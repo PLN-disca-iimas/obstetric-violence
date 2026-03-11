@@ -1,0 +1,6 @@
+Considera las siguientes categorías:
+1. Activismo para visibilizar violencia obstétrica: Para que el tweet cumpla con el criterio de activismo para visibilizar violencia obstétrica dentro del tweet se debe dar información sobre normas, legislación nacional o internacional sobre qué prácticas clínicas son consideradas violencia obstétrica, así como recomendaciones de organizaciones internacionales de derechos humanos y/u organizaciones no gubernamentales, así como referencias a notas periodísticas y/o reportajes gráficos sobre Violencia Obstétrica.
+2. Violencia obstétrica: Para que el tweet cumpla con el criterio de Violencia Obstétrica tiene que describir una experiencia en primera o tercera persona de una paciente o de un(a) médico(a) que sufrió, ejerció o vió de cerca como alguien del personal de salud ejerció algún tipo de violencia contra alguna mujer o persona gestante en cualquier etapa del periodo perinatal.
+3. No Violencia Obstétrica: El tweet no cumple con el criterio de violencia obstétrica cuando no se comparte ningún testimonio, ni hace referencia a ninguna norma, ley o recomendación de organismos nacionales o internacionales de derechos humanos.
+
+Clasifica los siguientes textos en alguna de las tres definiciones. Únicamente responde utilizando el ID con el nombre de la clasificación. Evita comentarios adicionales.
