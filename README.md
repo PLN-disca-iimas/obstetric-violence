@@ -20,7 +20,7 @@ The dataset used in this study consists of **2,157 tweets**, which were manually
 
 ## Dataset
 
-The dataset contains tweets related to obstetric violence collected from Twitter using relevant keywords.
+The [dataset](https://github.com/PLN-disca-iimas/obstetric-violence/blob/main/GoldStandard-VO.xlsx) contains tweets related to obstetric violence collected from Twitter using relevant keywords.
 
 Each tweet was manually annotated with the following labels:
 
